@@ -1,0 +1,14 @@
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\bin\Debug\net6.0\WordAnalyzerDenislav.exe
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\bin\Debug\net6.0\WordAnalyzerDenislav.deps.json
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\bin\Debug\net6.0\WordAnalyzerDenislav.runtimeconfig.json
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\bin\Debug\net6.0\WordAnalyzerDenislav.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\bin\Debug\net6.0\WordAnalyzerDenislav.pdb
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\obj\Debug\net6.0\WordAnalyzerDenislav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\obj\Debug\net6.0\WordAnalyzerDenislav.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\obj\Debug\net6.0\WordAnalyzerDenislav.AssemblyInfo.cs
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\obj\Debug\net6.0\WordAnalyzerDenislav.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\obj\Debug\net6.0\WordAnalyzerDenislav.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\obj\Debug\net6.0\refint\WordAnalyzerDenislav.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\obj\Debug\net6.0\WordAnalyzerDenislav.pdb
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\obj\Debug\net6.0\WordAnalyzerDenislav.genruntimeconfig.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\ПърваСедмицаФиналенПроект\WordAnalyzerDenislav\WordAnalyzerDenislav\obj\Debug\net6.0\ref\WordAnalyzerDenislav.dll
